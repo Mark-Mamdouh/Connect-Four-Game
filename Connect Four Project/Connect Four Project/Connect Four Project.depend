@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1422205196 source:c:\users\user 1\desktop\connect four project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1422205196 >
+
+1422205196 source:/media/mark/3054FB3554FAFD02/Users/user 1/Desktop/Connect Four Project/main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1422205196 source:d:\connect four project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1422205196 source:e:\connect four project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
